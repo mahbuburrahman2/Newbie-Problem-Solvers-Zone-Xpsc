@@ -1,0 +1,1 @@
+{"name":"Local: Equal_Mex_Splitting","url":"c:\\Phitron XPSC club\\Week xpsc 7\\Equal_Mex_Splitting.cpp","tests":[{"id":1764294261946,"input":"2\n4\n0 1 1 0\n6\n0 0 3 1 2 0\n","output":"2\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Phitron XPSC club\\Week xpsc 7\\Equal_Mex_Splitting.cpp","group":"local","local":true}

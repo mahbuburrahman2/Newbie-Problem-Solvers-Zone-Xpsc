@@ -1,0 +1,1 @@
+{"name":"Local: J_numbers_on_whiteboard","url":"c:\\Phitron XPSC club\\Week xpsc 3\\J_numbers_on_whiteboard.cpp","tests":[{"id":1760953342937,"input":"1\n4\n","output":"2\n2 4\n3 3\n3 1\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Phitron XPSC club\\Week xpsc 3\\J_numbers_on_whiteboard.cpp","group":"local","local":true}

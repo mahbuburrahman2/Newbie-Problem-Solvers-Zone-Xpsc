@@ -1,0 +1,1 @@
+{"name":"Local: GCND","url":"c:\\Phitron XPSC club\\Codechef Starters 208\\GCND.cpp","tests":[{"id":1760633156732,"input":"3\n2\n8 5\n3\n6 6 6\n4\n8 9 8 8","output":"7\n5\n7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Phitron XPSC club\\Codechef Starters 208\\GCND.cpp","group":"local","local":true}

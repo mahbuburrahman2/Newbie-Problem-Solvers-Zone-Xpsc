@@ -1,0 +1,1 @@
+{"name":"Local: A_Chess_Match","url":"c:\\Phitron XPSC club\\Long Challenge 2\\A_Chess_Match.cpp","tests":[{"id":1764686138826,"input":"3\n10 0 2\n11 2 1\n12 192 192","output":"378\n379\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Phitron XPSC club\\Long Challenge 2\\A_Chess_Match.cpp","group":"local","local":true}

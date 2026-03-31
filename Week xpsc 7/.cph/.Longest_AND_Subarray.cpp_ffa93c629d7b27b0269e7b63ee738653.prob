@@ -1,0 +1,1 @@
+{"name":"Local: Longest_AND_Subarray","url":"c:\\Phitron XPSC club\\Week xpsc 7\\Longest_AND_Subarray.cpp","tests":[{"id":1764088304167,"input":"5\n1\n2\n3\n4\n7","output":"1\n1\n2\n2\n4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Phitron XPSC club\\Week xpsc 7\\Longest_AND_Subarray.cpp","group":"local","local":true}

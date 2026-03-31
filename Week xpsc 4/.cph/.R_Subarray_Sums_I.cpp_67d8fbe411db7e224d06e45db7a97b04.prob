@@ -1,0 +1,1 @@
+{"name":"Local: R_Subarray_Sums_I","url":"c:\\Phitron XPSC club\\Week xpsc 4\\R_Subarray_Sums_I.cpp","tests":[{"id":1761764021777,"input":"5 7\n2 4 1 2 7\n","output":"3\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Phitron XPSC club\\Week xpsc 4\\R_Subarray_Sums_I.cpp","group":"local","local":true}

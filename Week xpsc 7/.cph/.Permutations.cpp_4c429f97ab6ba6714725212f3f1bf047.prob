@@ -1,0 +1,1 @@
+{"name":"Local: Permutations","url":"c:\\Phitron XPSC club\\Week xpsc 7\\Permutations.cpp","tests":[{"id":1763910231599,"input":"5","output":"4 2 5 3 1"},{"id":1763910250109,"input":"3","output":"NO SOLUTION"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Phitron XPSC club\\Week xpsc 7\\Permutations.cpp","group":"local","local":true}

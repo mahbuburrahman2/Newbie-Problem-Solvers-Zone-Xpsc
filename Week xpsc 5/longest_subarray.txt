@@ -1,0 +1,28 @@
+class Solution {
+  public:
+    int longestSubarray(vector<int>& arr, int k) {
+        unordered_map<long long, int> mp; // sum -> first index
+        long long sum = 0;
+        int maxLen = 0;
+
+        for (int i = 0; i < arr.size(); i++) {
+            sum += arr[i];
+
+            // Case 1: entire subarray from 0..i equals k
+            if (sum == k)
+                maxLen = i + 1;
+
+            // Case 2: check if sum-k seen before
+            if (mp.find(sum - k) != mp.end())
+                maxLen = max(maxLen, i - mp[sum - k]);
+
+            // store first occurrence of this sum
+            if (mp.find(sum) == mp.end())
+                mp[sum] = i;
+        }
+        return maxLen;
+    }
+};
+
+link//
+https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=longest-sub-array-with-sum-k

@@ -1,0 +1,1 @@
+{"name":"Local: B_Reach_Codetown","url":"c:\\Phitron XPSC club\\Week xpsc 10\\B_Reach_Codetown.cpp","tests":[{"id":1766871920111,"input":"3\nYAPETOWN\nCODECHEF\nCODETOWN\n","output":"YES\nNO\nYES\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Phitron XPSC club\\Week xpsc 10\\B_Reach_Codetown.cpp","group":"local","local":true}

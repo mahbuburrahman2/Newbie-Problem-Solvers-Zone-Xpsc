@@ -1,0 +1,1 @@
+{"name":"Local: Traffic_Lights","url":"c:\\Phitron XPSC club\\Week xpsc 3\\Traffic_Lights.cpp","tests":[{"id":1761065535480,"input":"8 3\n3 6 2\n","output":"5 3 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Phitron XPSC club\\Week xpsc 3\\Traffic_Lights.cpp","group":"local","local":true}

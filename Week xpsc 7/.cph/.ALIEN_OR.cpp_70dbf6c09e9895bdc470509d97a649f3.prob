@@ -1,0 +1,1 @@
+{"name":"Local: ALIEN_OR","url":"c:\\Phitron XPSC club\\Week xpsc 7\\ALIEN_OR.cpp","tests":[{"id":1764085719214,"input":"3\n2 2\n01\n10\n4 3\n000\n010\n011\n100\n6 3\n000\n001\n010\n011\n100\n101\n","output":"YES\nNO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Phitron XPSC club\\Week xpsc 7\\ALIEN_OR.cpp","group":"local","local":true}

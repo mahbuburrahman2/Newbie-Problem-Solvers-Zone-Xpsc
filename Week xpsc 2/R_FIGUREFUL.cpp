@@ -1,0 +1,26 @@
+#include <bits/stdc++.h>
+using namespace std;
+int main()
+{
+  ios::sync_with_stdio(false);
+  cin.tie(nullptr);
+
+  int n;
+  cin >> n;
+  map<pair<int, int>, string> data;
+  for (int i = 0; i < n; i++)
+  {
+    int x, y;
+    string name;
+    cin >> x >> y >> name;
+    data[{x, y}] = name;
+  }
+  int t;
+  cin >> t;
+  while (t--)
+  {
+    int a, b;
+    cin >> a >> b;
+    cout << data[{a, b}] << "\n";
+  }
+}

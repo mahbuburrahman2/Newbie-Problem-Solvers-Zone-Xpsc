@@ -1,0 +1,1 @@
+{"name":"Local: Palindrom_Reorder","url":"c:\\Phitron XPSC club\\Week xpsc 2\\Palindrom_Reorder.cpp","tests":[{"id":1760623951511,"input":"AAAACACBA\n","output":"AACABACAA"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Phitron XPSC club\\Week xpsc 2\\Palindrom_Reorder.cpp","group":"local","local":true}
